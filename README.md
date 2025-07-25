@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaimmehdi&show_icons=true&locale=en&layout=compact" alt="qaimmehdi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaimmehdi&" alt="qaimmehdi" /></p>
