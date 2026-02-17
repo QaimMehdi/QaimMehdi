@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **qaimmehdi2017@gmail.com**
 
-- 📄 Know about my experiences [https://red-esma-82.tiiny.site](https://red-esma-82.tiiny.site)
+- 📄 Know about my experiences My-Portfolio(https://qaimmehdi.netlify.app)
 
 - ⚡ Fun fact **I can spend hours debugging a single line of code... and still love every minute of it! 😄**
 
