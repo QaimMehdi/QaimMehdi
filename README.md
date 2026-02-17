@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **qaimmehdi2017@gmail.com**
 
-- 📄 Know about my experiences My-Portfolio(https://qaimmehdi.netlify.app)
+- 📄 Know about my experiences (https://qaimmehdi.netlify.app)
 
 - ⚡ Fun fact **I can spend hours debugging a single line of code... and still love every minute of it! 😄**
 
